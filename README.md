@@ -6,4 +6,6 @@ I have expertise in Active Directory Domain Services, DNS, VMware, Hyper-V, and 
 
 Currently expanding my expertise in Azure, AWS, and scripting, focusing on cloud computing and infrastructure management.
 
-https://max29aug.github.io/cloud-resume/
+## Online Resume
+
+You can view my Online Resume [here](https://max29aug.github.io/cloud-resume/).
