@@ -5,3 +5,5 @@ Hi, I am Prashant Khatri, a passionate Senior Server Support Engineer with 7+ ye
 I have expertise in Active Directory Domain Services, DNS, VMware, Hyper-V, and DHCP. Proficient in WSUS, server patching, on-premises deployments, and cloud-based deployments.
 
 Currently expanding my expertise in Azure, AWS, and scripting, focusing on cloud computing and infrastructure management.
+
+https://max29aug.github.io/cloud-resume/
