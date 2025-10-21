@@ -8,4 +8,4 @@ Currently expanding my expertise in Azure, AWS, and scripting, focusing on cloud
 
 ## Online Resume
 
-You can view my Online Resume [here](https://max29aug.github.io/cloud-resume/).
+You can view my Online Resume [here](https://max29aug.github.io/prashantkhatricloudcv/).
